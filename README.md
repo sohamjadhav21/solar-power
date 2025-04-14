@@ -1,7 +1,7 @@
 # solar-power
 Data Science Projects
-Some projects that I've done
-1. Forecasting Daily Solar Power Generation Using Gaussian Naive Bayes
+
+### Forecasting Daily Solar Power Generation Using Gaussian Naive Bayes
    
 This project uses dataset "Solar Power Generation Data" from kaggle. The dataset contains two solar power plants in India over a 34 day period. It has two pairs of files - each pair has one power generation dataset and one sensor readings dataset.
 
