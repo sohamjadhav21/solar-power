@@ -1,5 +1,5 @@
 # solar-power
-Data Science Projects
+## Data Science Projects
 
 ### Forecasting Daily Solar Power Generation Using Gaussian Naive Bayes
    
